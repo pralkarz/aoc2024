@@ -2,7 +2,7 @@
 
 This repository contains my solutions for [Advent of Code 2024](https://adventofcode.com/2024).
 
-The solution require Python 3.10+ (due to the usage of
+The solutions require Python 3.10+ (due to the usage of
 [pattern matching](https://peps.python.org/pep-0634/)). Other than that there are no dependencies.
 
 To run the given solution, use `python dayXX/dayXX.py` from the root of the repository, where `XX`
